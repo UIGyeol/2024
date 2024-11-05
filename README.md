@@ -1,4 +1,1 @@
-#first-repository
-
-
-This is practice of java, c and python mainly review
+This is practice of java, c and python. mainly review
