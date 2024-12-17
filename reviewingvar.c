@@ -3,7 +3,7 @@
 
 int main() {
 	char ch;
-	unsigned char j;
+	unsigned char j; 
 	char k;
 
 	ch = 200;
